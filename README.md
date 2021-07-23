@@ -1,7 +1,7 @@
 
-<h2 align='center'> Assignment - Polygon and Polygon Sequence </h3>
+<h2 align='center'> Assignment - Iterable:-  Polygon Sequence </h3>
 
-## Objective 1:
+## Objective:
 Take the custom polygon class from session 10, and convert it into an iterable
 
 ## Solution
@@ -24,3 +24,5 @@ The `PolygonSequence` class can be converted to an `iterable` by adding an `iter
                 self._idx += 1
                 return poly
 
+
+A Deepnote notebook demonostrating that the changes to the PolygonSequence class can be found [here](https://deepnote.com/project/EPAi3-session11-1UYAa-jIRQmQzYhA-3OeDQ/%2Fnotebook.ipynb)
