@@ -25,4 +25,4 @@ The `PolygonSequence` class can be converted to an `iterable` by adding an `iter
                 return poly
 
 
-A Deepnote notebook demonostrating that the changes to the PolygonSequence class can be found [here](https://deepnote.com/project/EPAi3-session11-1UYAa-jIRQmQzYhA-3OeDQ/%2Fnotebook.ipynb)
+A Deepnote notebook demonostrating the changes to the PolygonSequence class can be found [here](https://deepnote.com/project/EPAi3-session11-1UYAa-jIRQmQzYhA-3OeDQ/%2Fnotebook.ipynb)
